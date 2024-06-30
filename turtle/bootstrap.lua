@@ -1,5 +1,5 @@
 -- Download script downloader program
-SCRIPT_DOWNLOADER_URL = ''
+SCRIPT_DOWNLOADER_URL = 'https://raw.githubusercontent.com/Matt-Trinh0/ComputerCraft-Scripts/test/turtle/download_script.lua'
 
 function main()
     io.write(string.format('Downloading script downloader from %s', SCRIPT_DOWNLOADER_URL))
